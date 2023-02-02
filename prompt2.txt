@@ -1,0 +1,5 @@
+Write a blog post about the following topic:
+
+<<INPUT>>
+
+WRITE A BLOG POST ABOUT THE TOPIC ABOVE:
